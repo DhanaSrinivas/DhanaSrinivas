@@ -6,6 +6,10 @@ I'm in my *third year* of studies towards a bachelor's in **Computer Science & S
 
 You can reach me through LinkedIn [here](https://in.linkedin.com/in/dhana-srinivas-panniru-234374203?original_referer=https%3A%2F%2Fwww.google.com%2F)
 
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=DhanaSrinivas&show_icons=true&theme=tokyonight" 
+/>
+
 
 <!--
 **DhanaSrinivas/DhanaSrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
