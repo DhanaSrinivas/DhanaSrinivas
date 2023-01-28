@@ -1,6 +1,15 @@
 ### Hi there friends👋
 
-Do you like my profile ?
+I'm **Dhana Srinivas**
+
+
+![Dhana's image](https://www.icloud.com/sharedalbum/#B17JtdOXm2UF3yR)
+
+I'm in my *third year* of studies towards a bachelor's in **Computer Science & Systems Engineering** at **Andhra University**
+
+You can reach me through LinkedIn [here](https://in.linkedin.com/in/dhana-srinivas-panniru-234374203?original_referer=https%3A%2F%2Fwww.google.com%2F)
+
+
 <!--
 **DhanaSrinivas/DhanaSrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
