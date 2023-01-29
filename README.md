@@ -13,6 +13,8 @@ I'm **Dhana Srinivas**
 />
 
 ### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
