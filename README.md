@@ -12,7 +12,7 @@ I'm **Dhana Srinivas**
    src="https://github-readme-stats.vercel.app/api?username=DhanaSrinivas&show_icons=true&theme=tokyonight" 
 />
 
-### :zap: Recent Activity
+<!-- ### :zap: Recent Activity -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
