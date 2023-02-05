@@ -6,7 +6,7 @@ I'm **Dhana Srinivas**
 
 📫How to reach me:
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/dhana-srinivas-panniru-234374203/)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/dhana-srinivas-panniru-234374203/)   [![Connect on Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/dhn.srnvs/)
 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=DhanaSrinivas&show_icons=true&theme=tokyonight" 
