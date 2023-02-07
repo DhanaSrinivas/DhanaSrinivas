@@ -1,6 +1,6 @@
 ### Hi there friends👋
 
-I'm **Dhana Srinivas**
+I'm  **Dhana Srinivas**
 
 👨🏻‍🎓I'm in my *third year* of studies towards a bachelor's in **Computer Science & Systems Engineering** at **Andhra University**
 
