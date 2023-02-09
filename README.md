@@ -8,6 +8,13 @@ I'm **Dhana Srinivas**
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/dhana-srinivas-panniru-234374203/)   [![Connect on Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/dhn.srnvs/)
 
+Skills
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=DhanaSrinivas&show_icons=true&theme=tokyonight" 
 />
