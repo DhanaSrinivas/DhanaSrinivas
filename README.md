@@ -2,7 +2,7 @@
 
 I'm **Dhana Srinivas**
 
-👨🏻‍🎓I'm in my *third year* of studies towards a bachelor's in **Computer Science & Systems Engineering** at **Andhra University**
+👨🏻‍🎓I'm in my *final year* of studies towards a bachelor's in **Computer Science & Systems Engineering** at **Andhra University**
 
 📫How to reach me:
 
