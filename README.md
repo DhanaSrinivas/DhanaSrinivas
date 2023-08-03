@@ -1,6 +1,18 @@
-### Hi there friends👋
+<div align="center">
 
-I'm **Dhana Srinivas**
+# Hi! I'm Dhana Srinivas<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
+</div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=2234AE&size=25&center=true&vCenter=true&width=450&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
+</div>
+
+
+<div  align="center" >
+<a href="https://github.com/DhanaSrinivas"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
+</div>
+
+<div align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
+</div>
 
 👨🏻‍🎓I'm in my *final year* of studies towards a bachelor's in **Computer Science Engineering** at **Andhra University**
 
@@ -22,7 +34,7 @@ Skills
 
 <img src="https://github-readme-stats.vercel.app/api?username=DhanaSrinivas&show_icons=true&theme=tokyonight" >
 
-
+[![Dhana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanaSrinivas&theme=react-dark&line=2234AE&color=D3D3D3)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- ### :zap: Recent Activity -->
 
 
