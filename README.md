@@ -2,7 +2,7 @@
 
 I'm **Dhana Srinivas**
 
-👨🏻‍🎓I'm in my *final year* of studies towards a bachelor's in **Computer Science & Systems Engineering** at **Andhra University**
+👨🏻‍🎓I'm in my *final year* of studies towards a bachelor's in **Computer Science Engineering** at **Andhra University**
 
 📫How to reach me:
 
@@ -18,6 +18,7 @@ Skills
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <img src="https://github-readme-stats.vercel.app/api?username=DhanaSrinivas&show_icons=true&theme=tokyonight" >
 
